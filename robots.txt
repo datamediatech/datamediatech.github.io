@@ -4,3 +4,5 @@ Disallow:
 User-agent: *
 Disallow: /search
 Allow: /
+
+Sitemap: http://datamediatech.com/sitemap.xml
